@@ -1,0 +1,3 @@
+/Users/gladis/Desktop/ClionProjects/dijkstra_maze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gladis/Desktop/ClionProjects/dijkstra_maze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gladis/Desktop/ClionProjects/dijkstra_maze/cmake-build-debug/CMakeFiles/SFMLDemo.dir
